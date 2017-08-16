@@ -1,0 +1,1 @@
+<a href="pagina2.php">Pagina 2</a>
